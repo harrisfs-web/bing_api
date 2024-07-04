@@ -5,7 +5,7 @@ The steps include connection to a news API, transformation of the data and senti
 
 The main goal is to create simple solutions/examples to demonstrate capabilities of those solutions without going too much in-depth in any of the steps.
 
-** The .pbix file is not included since the data model and the report were created within the workspace using Fabric**
+**The .pbix file is not included since the data model and the report were created within the workspace using Fabric**
 
 ## Project Architecture
 ![alt text](screenshots/architecture.jpg)
